@@ -1,0 +1,31 @@
+User Report File: 
+
+Charmander2!              (valid)
+
+ ------------------------------ 
+
+charmander2!             (invalid)
+   -- no Uppercase Letter
+
+ ------------------------------ 
+
+CHARMANDER2!             (invalid)
+   -- no Lowercase Letter
+
+ ------------------------------ 
+
+Charmander!              (invalid)
+   -- no digit
+
+ ------------------------------ 
+
+Charmander2              (invalid)
+   -- no Special Character
+
+ ------------------------------ 
+
+Ch2!                     (invalid)
+   -- needs to be atleast 5 Characters
+
+ ------------------------------ 
+

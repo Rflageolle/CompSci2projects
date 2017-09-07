@@ -1,0 +1,28 @@
+case: verified
+Sample Data: Charmander2!
+Expected Result:
+Charmander2!  (verified)
+
+case: Need Upper case Letter
+Sample Data: charmander2!
+Expected Result:
+charmander2! (not verified)
+ —- need uppercase letter
+
+case: Need lower case Letter
+Sample Data: CHARMANDER2!
+Expected Result: 
+CHARMANDER2!  (not verified)
+ —- need lowercase letter
+
+case: Need a Digit
+Sample Data: Charmander!
+Expected Result:
+Charmander!  (not verified)
+ —- need a numerical digit
+
+case: Need Special Character
+Sample Data: Charmander2
+Expected Result:
+Charmander2 (not verified)
+ —- need a Special Character
